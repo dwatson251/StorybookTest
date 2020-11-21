@@ -7,4 +7,4 @@ export default {
     component: TextField,
 } as Meta;
 
-export const Primary: React.FunctionComponent<{}> = () => <TextField primary>Button</TextField>;
+export const Primary: React.FunctionComponent<{}> = () => <TextField />;
